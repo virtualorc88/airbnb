@@ -1,6 +1,6 @@
 {
   "name": "airbnb-vir",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "airbnb",
   "scripts": {
     "preinstall": "npm run install:config && npm run install:config:base",
