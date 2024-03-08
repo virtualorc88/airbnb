@@ -41,7 +41,7 @@
   "homepage": "https://github.com/virtualorc88/airbnb",
   "devDependencies": {
     "markdownlint": "^0.29.0",
-    "markdownlint-cli": "^0.35.0"
+    "markdownlint-cli": "^0.35.0",
     "@virtualorc88/binance": "^1.0.5"
   }
 }
