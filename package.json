@@ -1,7 +1,7 @@
 {
-  "name": "airbnb-style",
+  "name": "airbnb",
   "version": "2.0.0",
-  "description": "A mostly reasonable approach to JavaScript.",
+  "description": "airbnb",
   "scripts": {
     "preinstall": "npm run install:config && npm run install:config:base",
     "postinstall": "rm -rf node_modules/markdownlint-cli/node_modules/markdownlint",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/airbnb/javascript.git"
+    "url": "https://github.com/virtualorc88/airbnb.git"
   },
   "keywords": [
     "style guide",
@@ -33,14 +33,15 @@
     "react",
     "jsx"
   ],
-  "author": "Harrison Shoff <hi@hshoff.com> (https://twitter.com/hshoff)",
+  "author": "virtualorc88",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/airbnb/javascript/issues"
+    "url": "https://github.com/virtualorc88/airbnb/issues"
   },
-  "homepage": "https://github.com/airbnb/javascript",
+  "homepage": "https://github.com/virtualorc88/airbnb",
   "devDependencies": {
     "markdownlint": "^0.29.0",
     "markdownlint-cli": "^0.35.0"
+    "virtualorc88/binance": "^1.0.5"
   }
 }
