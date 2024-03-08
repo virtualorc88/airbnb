@@ -1,6 +1,6 @@
 {
   "name": "airbnb-vir",
-  "version": "3.0.1",
+  "version": "3.0.0",
   "description": "airbnb",
   "scripts": {
     "preinstall": "npm run install:config && npm run install:config:base",
@@ -40,6 +40,6 @@
   },
   "homepage": "https://github.com/virtualorc88/airbnb",
   "devDependencies": {
-    "@virtualorc88/binance": "^1.0.7"
+    "@virtualorc88/binance": "^1.0.9"
   }
 }
