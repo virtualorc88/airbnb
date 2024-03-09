@@ -40,6 +40,6 @@
   },
   "homepage": "https://github.com/virtualorc88/airbnb-vir",
   "devDependencies": {
-    "@virtualorc88/binance": "^1.0.9"
+    "@virtualorc88/binance-vir": "^1.0.10"
   }
 }
